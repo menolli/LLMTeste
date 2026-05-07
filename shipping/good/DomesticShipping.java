@@ -1,0 +1,1 @@
+public class DomesticShipping implements ShippingPolicy{public double calculate(Order o){return o.weight()*2;}}

@@ -1,0 +1,1 @@
+public class ReportService{private final ReportFormatter f; public ReportService(ReportFormatter f){this.f=f;} public void generate(Report r){f.write(r);}}

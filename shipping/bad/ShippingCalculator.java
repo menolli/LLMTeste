@@ -1,0 +1,1 @@
+public class ShippingCalculator{public double calculate(Order o,boolean intl){if(intl) return new InternationalShipping().calculate(o); return new DomesticShipping().calculate(o);}}

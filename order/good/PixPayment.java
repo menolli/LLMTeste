@@ -1,0 +1,1 @@
+public class PixPayment implements PaymentMethod{public void pay(double a){System.out.println("Paid "+a+" by PIX");}}

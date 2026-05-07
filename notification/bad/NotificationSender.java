@@ -1,0 +1,1 @@
+public class NotificationSender{public void send(Notification n,String c){if(c.equals("EMAIL")) new EmailSender().send(n); else if(c.equals("SMS")) new SmsSender().send(n);}}

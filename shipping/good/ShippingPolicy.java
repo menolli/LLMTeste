@@ -1,0 +1,1 @@
+public interface ShippingPolicy{double calculate(Order o);}

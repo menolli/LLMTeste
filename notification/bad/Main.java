@@ -1,0 +1,1 @@
+public class Main{public static void main(String[]a){new NotificationSender().send(new Notification("Hello"),"EMAIL");}}

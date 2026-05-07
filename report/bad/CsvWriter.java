@@ -1,0 +1,1 @@
+public class CsvWriter{public void write(Report r){System.out.println("CSV: "+r.data());}}

@@ -1,0 +1,1 @@
+public class PixProcessor{public static void process(double v){System.out.println("Paid "+v+" by PIX");}}

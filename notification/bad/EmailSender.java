@@ -1,0 +1,1 @@
+public class EmailSender{public void send(Notification n){System.out.println("Email: "+n.msg());}}

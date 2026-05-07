@@ -1,0 +1,1 @@
+public record Order(double weight){}

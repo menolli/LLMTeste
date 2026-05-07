@@ -1,0 +1,1 @@
+public interface ReportFormatter{void write(Report r);}

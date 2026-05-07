@@ -1,0 +1,1 @@
+public class InternationalShipping{public double calculate(Order o){return o.weight()*5;}}

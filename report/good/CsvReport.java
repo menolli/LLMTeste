@@ -1,0 +1,1 @@
+public class CsvReport implements ReportFormatter{public void write(Report r){System.out.println("CSV: "+r.data());}}

@@ -1,0 +1,1 @@
+public record OrderItem(String n,double p,int q){public double total(){return p*q;}}

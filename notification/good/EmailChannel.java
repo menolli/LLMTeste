@@ -1,0 +1,1 @@
+public class EmailChannel implements NotificationChannel{public void send(Notification n){System.out.println("Email: "+n.msg());}}

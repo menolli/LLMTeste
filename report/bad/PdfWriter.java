@@ -1,0 +1,1 @@
+public class PdfWriter{public void write(Report r){System.out.println("PDF: "+r.data());}}
